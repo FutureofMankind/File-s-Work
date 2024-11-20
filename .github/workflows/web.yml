@@ -1,4 +1,4 @@
-name: Netology homework
+name: Homework
 
 on: [push, pull_request]
 
